@@ -30,6 +30,7 @@ class SinglyLinkedList{
             while(current.next){
                 let target= current.next;
                 target.next ='';
+
             }
         }
     }
